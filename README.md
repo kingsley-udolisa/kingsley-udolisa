@@ -33,7 +33,7 @@ I turn messy commercial operations into clear, automated systems. I build Excel 
 | Project | What it does | Tools |
 |---|---|---|
 | [Delivery Control Tower](https://github.com/kingsley-udolisa/delivery-control-tower) | Tracks pending deliveries across 300+ dealers and flags delays | Excel, formulas, conditional logic |
-| **Customer Service Tracker** | Multi-year CS tracker with automated KPIs (100k+ formulas) | Excel |
+| [Customer Service Tracker](https://github.com/kingsley-udolisa/customer-service-tracker) | Logs complaints, tracks SLA, CSAT and NPS with a monthly KPI dashboard | Excel |
 | **Pending Delivery Analysis** | Truck top-up algorithm to fill loads and cut delivery cost | Excel |
 | **Commercial Ops Command Centre** | 14-section web app for daily operations with AI integration | HTML, JavaScript, Claude API |
 | **Working Days Calculator** | Calculates net working days for a custom Tue–Sat week | Excel |
