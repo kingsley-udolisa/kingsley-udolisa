@@ -14,7 +14,7 @@ I turn messy commercial operations into clear, automated systems. I build Excel 
 - **Business intelligence & reporting** — weekly business reviews, monthly management reports, KPI dashboards
 - **Customer service excellence** — SOPs, CSAT/NPS tracking, service training, customer surveys
 - **Data & CRM hygiene** — KYC registers, customer profiling, active-customer and reorder analysis
-- **Automation** — formula-driven Excel workbooks, HTML/JavaScript tools, AI-assisted workflows
+- **Automation** — formula-driven Excel workbooks, HTML/JavaScript tools, AI workflows with Claude and n8n
 
 ## 📊 Selected results (H1 2026)
 
@@ -42,7 +42,9 @@ I turn messy commercial operations into clear, automated systems. I build Excel 
 
 ## 🧰 Tools & skills
 
-`Excel (advanced formulas, SUMIFS, dashboards)` · `PowerPoint` · `SharePoint` · `Microsoft 365` · `Odoo ERP` · `HTML/CSS/JavaScript` · `Claude / AI automation` · `Microsoft Visio (process mapping)` · `KPI design` · `SOP writing`
+`Excel (advanced formulas, SUMIFS, dashboards)` · `PowerPoint` · `SharePoint` · `Microsoft 365` · `Odoo ERP` · `HTML/CSS/JavaScript` · `Microsoft Visio (process mapping)` · `KPI design` · `SOP writing`
+
+**AI & automation:** `Claude (AI assistant & API)` · `n8n (workflow automation)` · `AI-assisted reporting & document drafting`
 
 ## 🎓 Education
 
