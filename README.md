@@ -52,4 +52,4 @@ I turn messy commercial operations into clear, automated systems. I build Excel 
 ## 📫 Contact
 
 - ✉️ onyekapella@yahoo.com
-- 💼 LinkedIn: _add your link here_
+- 💼 [LinkedIn](https://www.linkedin.com/in/kingsley-udolisa-mba-a6211550)
